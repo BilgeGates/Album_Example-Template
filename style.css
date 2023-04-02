@@ -1,0 +1,7 @@
+.custom_footer {
+  text-decoration: none;
+}
+
+.custom_footer:hover {
+  text-decoration: underline;
+}
